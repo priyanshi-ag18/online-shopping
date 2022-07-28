@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "image": "assets/featured/1.jpg",
+        "name": "Quirky Sneakers",
+        "Description": "Bata Power endorses style that strikes a fine balance between the classic and the modern, the discreet and the bold with good taste being the only criterion for selection.",
+        "price":"21",
+        "category":"woman",
+        "total": 0
+    },
+    {
+        "id":2,
+        "image": "assets/watches/1.jpg",
+        "name": "Style Sneakers",
+        "Description": "Bata Power endorses style that strikes a fine balance between the classic and the modern, the discreet and the bold with good taste being the only criterion for selection.",
+        "price":"231",
+        "category":"accessories",
+        "total": 0
+    },
+    {
+        "id":3,
+        "image": "assets/featured/3.jpg",
+        "name": "Stylish Bag",
+        "Description": "Bata Power endorses style that strikes a fine balance between the classic and the modern, the discreet and the bold with good taste being the only criterion for selection.",
+        "price":"61",
+        "category":"woman",
+        "total": 0
+    },
+    {
+        "id":4,
+        "image": "assets/featured/4.jpg",
+        "name": "Head Cover",
+        "Description": "Bata Power endorses style that strikes a fine balance between the classic and the modern, the discreet and the bold with good taste being the only criterion for selection.",
+        "price":"45",
+        "category":"men",
+        "total": 0
+    },
+    {
+        "id":5,
+        "image": "assets/shop/4.jpg",
+        "name": "Adidas",
+        "Description": "Bata Power endorses style that strikes a fine balance between the classic and the modern, the discreet and the bold with good taste being the only criterion for selection.",
+        "price":"210",
+        "category":"men",
+        "total": 0
+    },
+    {
+        "id":6,
+        "image": "assets/shop/1.jpg",
+        "name": "T-Shirt",
+        "Description": "Bata Power endorses style that strikes a fine balance between the classic and the modern, the discreet and the bold with good taste being the only criterion for selection.",
+        "price":"160",
+        "category":"men",
+        "total": 0
+    },
+    {
+        "id":7,
+        "image": "assets/shop/3.jpg",
+        "name": "Side Bag",
+        "Description": "Bata Power endorses style that strikes a fine balance between the classic and the modern, the discreet and the bold with good taste being the only criterion for selection.",
+        "price":"459",
+        "category":"woman",
+        "total": 0
+    },
+    {
+        "id":8,
+        "image": "assets/shop/2.jpg",
+        "name": "Nike",
+        "Description": "Bata Power endorses style that strikes a fine balance between the classic and the modern, the discreet and the bold with good taste being the only criterion for selection.",
+        "price":"67",
+        "category":"men",
+        "total": 0
+    }
+]

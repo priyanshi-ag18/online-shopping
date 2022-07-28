@@ -1,0 +1,184 @@
+[
+    {
+        "id":1,
+        "image": "assets/shop/1.jpg",
+        "name": "T-shirt",
+        "Description": "Bata Power endorses style that strikes a fine balance between the classic and the modern.",
+        "price":"25",
+        "link": "href=sproduct.html",
+        "category": "men",
+        "total": 1
+    },
+    {
+        "id":2,
+        "image": "assets/shop/2.jpg",
+        "name": "Jordan Shoe",
+        "Description": "Bata Power endorses style that strikes a fine balance between the classic and the modern.",
+        "price":"21",
+        "category": "men",
+        "total": 1
+    },
+    {
+        "id":3,
+        "image": "assets/shop/3.jpg",
+        "name": "Handbag",
+        "Description": "Bata Power endorses style that strikes a fine balance between the classic and the modern.",
+        "price":"35",
+        "category": "accessories",
+          "total": 1
+    },
+    {
+        "id":4,
+        "image": "assets/shop/4.jpg",
+        "name": "HeadFast Shoes",
+        "Description": "Bata Power endorses style that strikes a fine balance between the classic and the modern.",
+        "price":"51",
+        "category": "men",
+        "total":1
+    },
+    {
+        "id":5,
+        "image": "assets/shop/5.jpg",
+        "name": "HeadCover",
+        "Description": "Bata Power endorses style that strikes a fine balance between the classic and the modern.",
+        "price":"310",
+         "category": "accessories",
+           "total":1
+    },
+    {
+        "id":6,
+        "image": "assets/shop/6.jpg",
+        "name": "OverCoat",
+        "Description": "Bata Power endorses style that strikes a fine balance between the classic and the modern.",
+        "price":"56",
+        "category": "woman",
+          "total":1
+    },
+    {
+        "id":7,
+        "image": "assets/shop/7.jpg",
+        "name": "ShoeSup",
+        "Description": "Bata Power endorses style that strikes a fine balance between the classic and the modern.",
+        "price":"78",
+        "category": "woman",
+          "total":1
+    },
+    {
+        "id":8,
+        "image": "assets/shop/8.jpg",
+        "name": "Jacket",
+        "Description": "Bata Power endorses style that strikes a fine balance between the classic and the modern.",
+        "price":"98",
+        "category": "woman",
+          "total":1
+    },
+    {
+        "id":9,
+        "image": "assets/shop/9.jpg",
+        "name": "SideBag",
+        "Description": "Bata Power endorses style that strikes a fine balance between the classic and the modern.",
+        "price":"80",
+        "category": "accessories",
+          "total":1
+    },
+    {
+        "id":10,
+        "image": "assets/shop/10.jpg",
+        "name": "Fastrack",
+        "Description": "Bata Power endorses style that strikes a fine balance between the classic and the modern.",
+        "price":"67",
+        "category": "accessories",
+          "total":1
+    },
+    {
+        "id":11,
+        "image": "assets/shop/11.jpg",
+        "name": "HeadCaps",
+        "Description": "Bata Power endorses style that strikes a fine balance between the classic and the modern.",
+        "price":"45",
+        "category": "woman",
+          "total":1
+    },
+    {
+        "id":12,
+        "image": "assets/shop/12.jpg",
+        "name": "Sneakers",
+        "Description": "Bata Power endorses style that strikes a fine balance between the classic and the modern",
+        "price":"121",
+        "category": "woman",
+          "total":1
+    },
+    {
+        "id":13,
+        "image": "assets/shop/13.jpg",
+        "name": "Fossil",
+        "Description": "Bata Power endorses style that strikes a fine balance between the classic and the modern",
+        "price":"43",
+        "category": "accessories",
+          "total":1
+    },
+    {
+        "id":14,
+        "image": "assets/shop/14.jpg",
+        "name": "RunEdge",
+        "Description": "Bata Power endorses style that strikes a fine balance between the classic and the modern.",
+        "price":"71",
+        "category": "men",
+        "total":1
+    },
+    {
+        "id":15,
+        "image": "assets/shop/15.jpg",
+        "name": "Woolen-Cap",
+        "Description": "Bata Power endorses style that strikes a fine balance between the classic and the modern.",
+        "price":"98",
+        "category": "accessories",
+          "total":1
+
+    },
+    {
+        "id":16,
+        "image": "assets/shop/16.jpg",
+        "name": "T-shirt",
+        "Description": "Bata Power endorses style that strikes a fine balance between the classic and the modern.",
+        "price":"29",
+        "category": "woman",
+          "total":1
+    },
+    {
+        "id":17,
+        "image": "assets/shop/17.jpg",
+        "name": "Jacket",
+        "Description": "Bata Power endorses style that strikes a fine balance between the classic and the modern,.",
+        "price":"201",
+        "category": "woman",
+          "total":1
+    },
+    {
+        "id":18,
+        "image": "assets/shop/18.jpg",
+        "name": "Cap",
+        "Description": "Bata Power endorses style that strikes a fine balance between the classic and the modern.",
+        "price":"61",
+        "category": "accessories",
+          "total":1
+    },
+    {
+        "id":19,
+        "image": "assets/shop/19.jpg",
+        "name": "Hoodie",
+        "Description": "Bata Power endorses style that strikes a fine balance between the classic and the modern.",
+        "price":"89",
+        "category": "men",
+        "total":1
+    },
+    {
+        "id":20,
+        "image": "assets/shop/20.jpg",
+        "name": "OverCoat",
+        "Description": "Bata Power endorses style that strikes a fine balance between the classic and the modern",
+        "price":"134",
+        "category": "woman",
+          "total":1
+    }
+]
